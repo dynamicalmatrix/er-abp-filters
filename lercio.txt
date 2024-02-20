@@ -6,5 +6,5 @@
 ! Homepage:
 !
 ! Blocca i piedi di lercio
-lercio.it###elementor-popup-modal-63675
+! Questo non funziona e non so perchè: lercio.it###elementor-popup-modal-63675
 ###elementor-popup-modal-63675
