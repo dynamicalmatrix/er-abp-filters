@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:
+!
+! Stop showing "adblock plus has been updated"
+https://adblockplus.org/update*
+https://adblockplus.org/en/update*
