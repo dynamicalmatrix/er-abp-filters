@@ -6,9 +6,9 @@
 ! Homepage:
 !
 ! Stop asking "sign with google" on different sites
-https://accounts.google.com/gsi/iframe/*
+! https://accounts.google.com/gsi/iframe/*
 ! Stop showing "adblock plus has been updated"
-https://adblockplus.org/update*
-https://adblockplus.org/en/update*
-https://adblockplus.org/*
+! https://adblockplus.org/update*
+! https://adblockplus.org/en/update*
+! https://adblockplus.org/*
 https://www.corriere.it/*
