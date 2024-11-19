@@ -10,3 +10,5 @@ https://accounts.google.com/gsi/iframe/*
 ! Stop showing "adblock plus has been updated"
 https://adblockplus.org/update*
 https://adblockplus.org/en/update*
+https://adblockplus.org/*
+https://www.corriere.it/*
