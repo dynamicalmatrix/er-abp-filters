@@ -11,4 +11,4 @@
 ! https://adblockplus.org/update*
 ! https://adblockplus.org/en/update*
 ! https://adblockplus.org/*
-https://www.corriere.it/*
+https://www.corriere.it/
