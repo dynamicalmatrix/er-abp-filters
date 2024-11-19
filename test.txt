@@ -5,8 +5,8 @@
 ! Expires: 4 days (update frequency)
 ! Homepage:
 !
-! Stop showing "adblock plus has been updated"
-! https://adblockplus.org/update*
-! https://adblockplus.org/en/update*
-! https://adblockplus.org/*
-https://www.corriere.it/*
+! Blocca i piedi di lercio
+! Questo non funziona e non so perchè: lercio.it###elementor-popup-modal-63675
+###elementor-popup-modal-63675
+###elementor-popup-modal-65704
+||lercio.it/wp-content/uploads/2021/03/sostieni-lercio.jpg
