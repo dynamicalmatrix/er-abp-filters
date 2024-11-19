@@ -6,4 +6,5 @@
 ! Homepage:
 !
 ! Stop asking "sign with google" on different sites
-https://www.corriere.it
+! https://www.corriere.it
+www.corriere.it
