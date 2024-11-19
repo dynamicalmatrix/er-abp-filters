@@ -5,6 +5,5 @@
 ! Expires: 4 days (update frequency)
 ! Homepage:
 !
-! Stop asking "sign with google" on different sites
-! https://www.corriere.it
-www.corriere.it
+! test
+https://www.unife.it
